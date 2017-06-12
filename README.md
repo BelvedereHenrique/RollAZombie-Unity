@@ -1,2 +1,2 @@
 # unityTests
-Unity engine tests
+Some games made on Unity for learning purposes.
